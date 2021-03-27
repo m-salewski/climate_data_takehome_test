@@ -9,7 +9,7 @@ M. Salewski, 27.03.2021
 All analyses use only Pandas; visualizations use Matplotlib.  
 These should run with most recent version of Pandas and Matplotlib. 
 
-All CSVs should be placed in a directory named "data"
+All CSVs should be placed in a directory named "data"; not included in the repository.
 
 ## EDA
 
