@@ -1,4 +1,4 @@
-# planetly_takehome
+# Climate Data Takehome Test
 
 ## Data Science Takehome Test
 
